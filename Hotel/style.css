@@ -104,6 +104,8 @@ label.logo{
 .Hotel p{
     font-size: 20px;
     margin-bottom: 20px;
+	text-align: left;
+	margin-left: 15px;
 }
 .Contact{
     background-color: #2a2a2a;
