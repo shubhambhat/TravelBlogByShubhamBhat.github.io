@@ -118,7 +118,7 @@ label.logo{
 }
 .Blog h3 a, .About h3, .Contact h2{
     font-size: 30px;
-	color: #101292;
+	color: black;
 	text-decoration: none;
     margin-bottom: 30px;
 }
