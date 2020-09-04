@@ -78,7 +78,6 @@ label.logo{
 .Hotel{
     margin-top: 50px;
     margin-bottom: 60px;
-    text-transform: capitalize;
     text-align: center;
 }
 .Hotel h1{
@@ -95,7 +94,7 @@ label.logo{
 .Hotel div img{
     width: 680px; 
     height: 450px; 
-    margin-bottom: 10px;
+    margin-bottom: 70px;
 }
 .Hotel div .v{
     width: 460px;
@@ -103,7 +102,9 @@ label.logo{
 }
 .Hotel p{
     font-size: 20px;
-    margin-bottom: 70px;
+    margin-bottom: 20px;
+	text-align: left;
+	margin-left: 15px;
 }
 .Contact{
     background-color: #2a2a2a;
@@ -372,4 +373,3 @@ label.logo{
         font-size: 14px;
     }
 }
-
